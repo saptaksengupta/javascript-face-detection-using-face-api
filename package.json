@@ -1,0 +1,14 @@
+{
+  "name": "real-time-face-detection",
+  "version": "1.0.0",
+  "description": "A simple face detection web application using tensorflow(face-api).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saptaksengupta",
+  "license": "ISC",
+  "dependencies": {
+    "face-api.js": "^0.20.1"
+  }
+}
